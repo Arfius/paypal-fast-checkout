@@ -1,0 +1,7 @@
+{
+  "name": "Example Paypal-fast-checkout",
+  "version": "1.0.0",
+  "dependencies": {
+    "Paypal-fast-checkout": "https://github.com/Arfius/paypal-fast-checkout.git"
+  }
+}

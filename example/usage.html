@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Example Paypal Fast Checkout</title>
+</head>
+
+<script src="node_modules/angular/angular.js"></script>
+<script src="node_modules/underscore/underscore-min.js"></script>
+<script src="node_modules/paypal-fast-checkout/dist/paypal-fast-checkout.js"></script>
+<script src="app.js"></script>
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+<body ng-app="example" ng-controller="mainCtrl">
+<paypal-fast-checkout  config="paypal" callbacksuccess="_create"></paypal-fast-checkout>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+{
+  "main": "dist/paypal-fast-checkout.js",
+  "dependencies": {
+    "angular": "1.x",
+    "underscore": "1.x"
+  },
+  "files": [
+    "HISTORY.md",
+    "dist/paypal-fast-checkout.js"
+  ],
+  "gitHead": "https://github.com/Arfius/paypal-fast-checkout.git",
+  "homepage": "https://github.com/Arfius/paypal-fast-checkout#readme",
+  "keywords": [
+    "paypal",
+    "checkout",
+    "angularjs",
+    "directive"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Alfonso Farruggia",
+      "email": "alfarruggia@gmail.com"
+    }
+  ],
+  "name": "Paypal-fast-checkout",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arfius/paypal-fast-checkout.git"
+  },
+  "version": "1.0.0"
+}
