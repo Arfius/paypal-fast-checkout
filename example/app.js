@@ -9,7 +9,8 @@ app.controller('mainCtrl', ['$scope',function($scope)
       currency:'EUR',
       symbol:'€',
       id:'example',
-      show:'true'
+      show:'true',
+      env:'sandbox'
   }
 
   var _create= function(data,action)
